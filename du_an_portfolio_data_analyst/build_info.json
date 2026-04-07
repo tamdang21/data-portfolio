@@ -1,0 +1,15 @@
+{
+  "root": "/mnt/data/du_an_portfolio_data_analyst",
+  "notebooks": [
+    "01_du_an_kinh_te_tai_chinh.ipynb",
+    "02_du_an_thi_truong_ung_dung.ipynb",
+    "03_du_an_hieu_qua_tai_chinh_phim.ipynb",
+    "04_case_study_sql_bigquery.ipynb"
+  ],
+  "html": [
+    "01_du_an_kinh_te_tai_chinh.html",
+    "02_du_an_thi_truong_ung_dung.html",
+    "03_du_an_hieu_qua_tai_chinh_phim.html",
+    "04_case_study_sql_bigquery.html"
+  ]
+}
